@@ -1,0 +1,30 @@
+body{
+    background-image: url(media/perScholasLogo.png);
+
+}
+.headerFont{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200px;
+    text-align: center;
+}
+.basicFont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 20px
+}
+#header{
+    font: 100px;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+
